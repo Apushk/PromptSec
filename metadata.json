@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PromptSec - Security Testing",
+  "description": "A beautiful, glassmorphic application to test LLM prompts for injection attacks, harmful intent, and PII leaks.",
+  "requestFramePermissions": []
+}
